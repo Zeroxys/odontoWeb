@@ -18,8 +18,15 @@ We can meet the requirements even of the whimsical clients. Thanks for your choi
         </section>
 
         <section className="footerInfo">
-          <h2>Contactanos</h2>
-          <p>Some text</p>
+          <h2>Contactanaos</h2>
+          <address>
+            <span class="fa fa-2x fa-map-marker" aria-hidden="true"></span>
+            <p>Av Siempre viva</p>
+          </address>
+          <div>
+            <span class="fa fa-2x fa-mobile" aria-hidden="true"></span>
+            <p>Cel: 1234123123</p>
+          </div>
         </section>
       </div>
 
